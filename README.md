@@ -1,6 +1,5 @@
-# Class Imbalance Wafer Defect Pattern Recognition Based on DeceFL Framework
+# Wafer Defect Pattern Recognition
 
-This repository comprises codes for the DCAE module that reproduce experiments in "Class Imbalance Wafer Defect Pattern Recognition Based on DeceFL Framework".
 
 ## Project Organization
 
